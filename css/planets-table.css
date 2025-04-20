@@ -1,0 +1,13 @@
+th, td{
+    border: 1px black solid;
+}
+.planet-name{
+    font-weight: 900;
+}
+.planet-category{
+    font-weight: 900;
+    font-size: 1.2rem;
+}
+.category-heading{
+    width: 15%;
+}
